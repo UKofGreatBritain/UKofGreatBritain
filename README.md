@@ -6,7 +6,7 @@
  <td>
 
 $${\color{#AB3759} — England }$$
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&weight=450&pause=1000&color=AB3759&width=435&lines=Dieu+et+mon+droit.+;God+save+the+king.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&pause=1000&color=AB3759&width=300&lines=Dieu+et+mon+droit.+;God+save+the+king." alt="Typing SVG" /></a>
 <br>
   <details>
 <summary>$\color{#FDF1F3}{\textsf{ㅤㅤㅤㅤㅤABOUTㅤMEㅤㅤㅤㅤㅤ}}$</summary>
@@ -42,7 +42,7 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 <p align="right">
 <td>
 <tr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&weight=450&pause=1000&color=295F95&width=250&lines=Nemo+me+impune+lacessit.+;SCOTLAND+FOREVER!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&pause=1000&color=295F95&width=265&lines=Nemo+mon+impune+lacessit.+;SCOTLAND+FOREVER!+" alt="Typing SVG" /></a>
 $${\color{#295F95} — Scotland }$$
 </p>
 
@@ -113,7 +113,7 @@ $${\color{#262E57}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
  <td>
 
 $${\color{#AB3759} — Wales }$$
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&weight=450&pause=1000&color=3EB181&width=435&lines=Cymru+am+byth.+;The+red+dragon+leads+the+way.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&pause=1000&color=3EB181&width=300&lines=Cymru+am+byth.+;The+red+dragon+inspires+action." alt="Typing SVG" /></a>
 <br>
   <details>
 <summary>$\color{#9FD1C2}{\textsf{ㅤㅤㅤㅤㅤPTㅤINFOㅤ(BYI)ㅤㅤㅤㅤㅤ}}$</summary>
