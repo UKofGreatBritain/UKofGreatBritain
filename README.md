@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://github.com/user-attachments/assets/8a288547-fed2-4f83-81dc-d0b6d7fb846d" width="100%" />
+</p>
+<br>
+<p align="center">
 <img src="https://github.com/user-attachments/assets/013f5856-e80a-4787-9184-d7910111b2f5" width="25%" />
 </p>
 <br>
@@ -40,6 +44,10 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 
 <br>
 <br>
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8315c5e7-872e-4913-ae11-35e72e25ef35" width="100%" />
+</p>
 <br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d45440af-9012-42e5-8ccd-544dfb089148" width="25%" />
@@ -105,7 +113,11 @@ $${\color{#262E57}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
   
 </h5>
 
-
+<br>
+<br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/38cbcde8-8f06-475b-824b-c6fa92fc0330" width="100%" />
+</p>
 <br>
 <br>
 <div align="center">
@@ -158,7 +170,10 @@ $${\color{#8A3238}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ
   </details>
 <br>
 <br>
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/21580ec4-a187-421a-a327-706e6ade9468" width="100%" />
+</p>
+<br>
   <p align="center"><img src="https://github.com/user-attachments/assets/b78f058f-8644-4ad8-aa96-20e5339bf5a7"  align="right" width="27%" /></p>
 
  ㅤ
