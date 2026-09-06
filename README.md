@@ -1,8 +1,4 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/ee71d1b3-0644-4e38-8d0f-767f06a51d22"  align="left" width="27%" /></p>
-
-
- 
-
 </p>
 
   
@@ -42,9 +38,6 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 <br>
 <br>
 <p align="center"><img src="https://github.com/user-attachments/assets/46c0909e-9540-48e6-9908-5eccc1f81af8"  align="right" width="27%" /></p>
-
-
- 
 
 <p align="right">
 <td>
@@ -103,3 +96,46 @@ $${\color{#262E57}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
   </details>
   
 </h5>
+<br>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/eda25910-15fd-4531-822c-2c264c5b9112"  align="left" width="27%" /></p>
+
+
+
+ㅤ
+  
+</p>
+
+
+
+  
+ <tr>
+ <td>
+
+$${\color{#AB3759} — Wales }$$
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&weight=450&pause=1000&color=3EB181&width=435&lines=Cymru+am+byth.+;The+red+dragon+leads+the+way.+" alt="Typing SVG" /></a>
+<br>
+  <details>
+<summary>$\color{#9FD1C2}{\textsf{ㅤㅤㅤㅤㅤPTㅤINFOㅤ(BYI)ㅤㅤㅤㅤㅤ}}$</summary>
+    <br>
+    <p align="left">
+$${\color{#8A3238}Iㅤoften ㅤsit ㅤin ㅤeither ㅤthe ㅤHetalia ㅤarea ㅤor ㅤCountryhumans ㅤarea.}$$
+$${\color{#358748}Most ㅤof ㅤthe ㅤtime ㅤI ㅤmight ㅤbe ㅤofftab ㅤor ㅤAFK ㅤbut ㅤfeel ㅤfree ㅤto }$$
+$${\color{#358748}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ(๑ᵔ⤙ᵔ๑) }$$
+    <br>
+$${\color{#D7A5B5}He ㅤㅤ}$$
+$${\color{#C96484} 𓂃 ㅤㅤThemㅤㅤ}$$
+    <br>
+$${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
+　　
+$${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
+    <br>
+
+  </tr>
+   </td>
+   </p>
+    
+
+
+  </details>
+  
