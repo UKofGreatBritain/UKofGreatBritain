@@ -121,15 +121,19 @@ $${\color{#AB3759} — Wales }$$
     <p align="left">
 $${\color{#8A3238}Iㅤoften ㅤsit ㅤin ㅤeither ㅤthe ㅤHetalia ㅤarea ㅤor ㅤCountryhumans ㅤarea.}$$
 $${\color{#358748}Most ㅤof ㅤthe ㅤtime ㅤI ㅤmight ㅤbe ㅤofftab ㅤor ㅤAFK ㅤbut ㅤfeel ㅤfree ㅤto }$$
-$${\color{#358748}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ(๑ᵔ⤙ᵔ๑) }$$
+$${\color{#8A3238}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ(๑ᵔ⤙ᵔ๑) }$$
     <br>
-$${\color{#D7A5B5}He ㅤㅤ}$$
-$${\color{#C96484} 𓂃 ㅤㅤThemㅤㅤ}$$
-    <br>
-$${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
-　　
-$${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
-    <br>
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="middle" valign="middle">
+      $${\color{#358748}🌙 : Off-tab / On menu (Whisp to Int)}$$
+     <br>
+     $${\color{#8A3238}⛔️ : Online , Feel free to interact}$$
+    </td>
+  </tr>
+</table>
+</div>
 
   </tr>
    </td>
