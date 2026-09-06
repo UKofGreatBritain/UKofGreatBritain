@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/8a288547-fed2-4f83-81dc-d0b6d7fb846d" width="100%" />
-</p>
+
 <br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/013f5856-e80a-4787-9184-d7910111b2f5" width="25%" />
@@ -44,10 +42,12 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 
 <br>
 <br>
-<br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8315c5e7-872e-4913-ae11-35e72e25ef35" width="100%" />
+<img src="https://github.com/user-attachments/assets/16d4a008-917f-4c57-b3dd-dc3031253e56" width="100%" />
 </p>
+<br>
+<!--SCOTLAND SECTION-->
+<br>
 <br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d45440af-9012-42e5-8ccd-544dfb089148" width="25%" />
@@ -112,12 +112,15 @@ $${\color{#262E57}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
   </details>
   
 </h5>
-
-<br>
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/38cbcde8-8f06-475b-824b-c6fa92fc0330" width="100%" />
+<img src="https://github.com/user-attachments/assets/c793547d-20af-450b-8ef5-d1a4877783a5" width="100%" />
 </p>
+<br>
+<br>
+<br>
+<!--WALES SECTION-->
+
 <br>
 <br>
 <div align="center">
@@ -164,14 +167,19 @@ $${\color{#8A3238}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ
   </tr>
    </td>
    </p>
+
+</details>
+   <p align="center">
+<img src="https://github.com/user-attachments/assets/56d5e56d-933f-4fb6-b904-16c1d4f82049" width="100%" />
+</p>
     
 
 
-  </details>
+<!--N. IRELAND SECTION-->
 <br>
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/21580ec4-a187-421a-a327-706e6ade9468" width="100%" />
+<img src="https://github.com/user-attachments/assets/0030b0db-f38a-4ceb-987a-ae38f083329a" width="25%" />
 </p>
 <br>
   <p align="center"><img src="https://github.com/user-attachments/assets/b78f058f-8644-4ad8-aa96-20e5339bf5a7"  align="right" width="27%" /></p>
@@ -201,3 +209,9 @@ $${\color{#B53B4F} — Northern Ireland }$$
   ↻ ◁ II ▷ ↺ 1:35 ───ㅇ───── 3:47
 </p>
 </div>
+</td>
+</tr>
+</table>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/afc3da4f-28ff-47f1-8bfa-dbe329c79ceb" width="100%" />
+</p>
