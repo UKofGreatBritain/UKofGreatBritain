@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/ee71d1b3-0644-4e38-8d0f-767f06a51d22"  align="left" width="25%" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ee71d1b3-0644-4e38-8d0f-767f06a51d22"  align="left" width="28%" /></p>
 
 
  
@@ -36,4 +36,4 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
   </details>
 
 
-　 [guns.lol](https://guns.lol/usofamerica)‎　 [prns.cc](https://pronouns.cc/@usofamerica) 　[spacehey](https://spacehey.com/cuirassier)
+　 [ATABOOK](https://englandlondon.atabook.org/)‎　 [STRAWPAGE](https://arthuriggy.straw.page) 　[GUNS.LOL](https://guns.lol/arthurkirkland)
