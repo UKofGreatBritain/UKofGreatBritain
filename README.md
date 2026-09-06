@@ -1,4 +1,6 @@
-
+<p align="center">
+  $${\color{#C96484}︶ ⏝ ︶ ୨୧ ︶ ⏝ ︶}$$
+</p>
 <br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/013f5856-e80a-4787-9184-d7910111b2f5" width="25%" />
@@ -48,6 +50,9 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 <br>
 <!--SCOTLAND SECTION-->
 <br>
+<br>
+
+$${\color{#6B7EA5}︶ ⏝ ︶ ୨୧ ︶ ⏝ ︶}$$
 <br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d45440af-9012-42e5-8ccd-544dfb089148" width="25%" />
@@ -121,6 +126,7 @@ $${\color{#262E57}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
 <br>
 <!--WALES SECTION-->
 
+$${\color{#9FD1C2}︶ ⏝ ︶ ୨୧ ︶ ⏝ ︶}$$
 <br>
 <br>
 <div align="center">
@@ -177,6 +183,8 @@ $${\color{#8A3238}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ
 
 <!--N. IRELAND SECTION-->
 <br>
+
+$${\color{#F0CC69}︶ ⏝ ︶ ୨୧ ︶ ⏝ ︶}$$
 <br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0030b0db-f38a-4ceb-987a-ae38f083329a" width="25%" />
