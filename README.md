@@ -53,13 +53,13 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 $${\color{#295F95} — Scotland }$$
 </p>
 
-<p align="right">
-<br>
+<h5 align="right">
   <details>
-<summary>$\color{#FDF1F3}{\textsf{ㅤㅤㅤㅤㅤABOUTㅤMEㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#97C5D4}{\textsf{ㅤㅤㅤㅤㅤ INTERACTㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
     <br>
-$${\color{#C96484}꩜ㅤArthurㅤㅤ}$$
-$${\color{#D7A5B5}/ ㅤㅤEngie.}$$
+  <div align="right">
+$${\color{#6B9CC2}꩜ㅤArthurㅤㅤ}$$
+$${\color{#CBE2EA}/ ㅤㅤEngie.}$$
     <br>
 $${\color{#D7A5B5}He ㅤㅤ}$$
 $${\color{#C96484} 𓂃 ㅤㅤThemㅤㅤ}$$
@@ -68,6 +68,7 @@ $${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
 　　
 $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
     <br>
+  </div>
 
   </tr>
    </td>
@@ -76,4 +77,4 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 
   </details>
   
-</p>
+</h5>
