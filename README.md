@@ -55,18 +55,43 @@ $${\color{#295F95} — Scotland }$$
 
 <h5 align="right">
   <details>
-<summary>$\color{#97C5D4}{\textsf{ㅤㅤㅤㅤㅤ INTERACTㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
+<summary>$\color{#97B1D4}{\textsf{ㅤㅤㅤㅤㅤ INTERACTㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
     <br>
   <div align="right">
-$${\color{#6B9CC2}꩜ㅤArthurㅤㅤ}$$
-$${\color{#CBE2EA}/ ㅤㅤEngie.}$$
+$${\color{#344876}FRUKㅤ Shippersㅤ 𓏵}$$
     <br>
-$${\color{#D7A5B5}He ㅤㅤ}$$
-$${\color{#C96484} 𓂃 ㅤㅤThemㅤㅤ}$$
+$${\color{#506DA9}UK ㅤBrothers ㅤCosplayers ㅤ/ㅤ Kins ㅤ𓏵}$$
     <br>
-$${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
-　　
-$${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
+$${\color{#5C75A7}Germany ㅤKinsㅤ 𓏵}$$
+    <br>
+$${\color{#6B7EA5} DOUBLES ㅤ𓏵}$$
+    <br> 
+  </div>
+
+  </tr>
+   </td>
+    
+
+
+  </details>
+  
+</h5>
+
+<h5 align="right">
+  <details>
+<summary>$\color{#6D92BD}{\textsf{ㅤㅤㅤㅤㅤ DNIㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
+    <br>
+  <div align="right">
+$${\color{#344876}USUK ㅤShippers ㅤ 𓏵}$$
+    <br>
+$${\color{#506DA9}Spamano ㅤShippers ㅤ𓏵}$$
+    <br>
+$${\color{#5C75A7}NeoNaz!sㅤ 𓏵}$$
+    <br>
+$${\color{#6B7EA5}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
+    <br>
+    [Basic DNI Criteria](https://dni-criteria.carrd.co/)
+    $${\color{#6B7EA5} ㅤ𓏵}$$
     <br>
   </div>
 
