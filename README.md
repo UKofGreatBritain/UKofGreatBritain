@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/user-attachments/assets/ee71d1b3-0644-4e38-8d0f-767f06a51d22"  align="left" width="28%" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/ee71d1b3-0644-4e38-8d0f-767f06a51d22"  align="left" width="27%" /></p>
 
 
  
@@ -37,3 +37,43 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
 
 
 　 [ATABOOK](https://englandlondon.atabook.org/)‎　 [STRAWPAGE](https://arthuriggy.straw.page) 　[GUNS.LOL](https://guns.lol/arthurkirkland)
+
+<br>
+<br>
+<br>
+<p align="center"><img src="https://github.com/user-attachments/assets/46c0909e-9540-48e6-9908-5eccc1f81af8"  align="right" width="27%" /></p>
+
+
+ 
+
+<p align="right">
+<td>
+<tr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&weight=450&pause=1000&color=295F95&width=250&lines=Nemo+me+impune+lacessit.+;SCOTLAND+FOREVER!+" alt="Typing SVG" /></a>
+$${\color{#295F95} — Scotland }$$
+</p>
+
+<p align="right">
+<br>
+  <details>
+<summary>$\color{#FDF1F3}{\textsf{ㅤㅤㅤㅤㅤABOUTㅤMEㅤㅤㅤㅤㅤ}}$</summary>
+    <br>
+$${\color{#C96484}꩜ㅤArthurㅤㅤ}$$
+$${\color{#D7A5B5}/ ㅤㅤEngie.}$$
+    <br>
+$${\color{#D7A5B5}He ㅤㅤ}$$
+$${\color{#C96484} 𓂃 ㅤㅤThemㅤㅤ}$$
+    <br>
+$${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
+　　
+$${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
+    <br>
+
+  </tr>
+   </td>
+    
+
+
+  </details>
+  
+</p>
