@@ -82,16 +82,16 @@ $${\color{#6B7EA5} DOUBLES ㅤ𓏵}$$
 <summary>$\color{#6D92BD}{\textsf{ㅤㅤㅤㅤㅤ DNIㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
     <br>
   <div align="right">
-$${\color{#344876}USUK ㅤShippers ㅤ 𓏵}$$
+$${\color{#486392}USUK ㅤShippers ㅤ 𓏵}$$
     <br>
-$${\color{#506DA9}Spamano ㅤShippers ㅤ𓏵}$$
+$${\color{#41527C}Spamano ㅤShippers ㅤ𓏵}$$
     <br>
-$${\color{#5C75A7}NeoNaz!sㅤ 𓏵}$$
+$${\color{#34416B}NeoNaz!sㅤ 𓏵}$$
     <br>
-$${\color{#6B7EA5}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
+$${\color{#262E57}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
     <br>
-    [Basic DNI Criteria](https://dni-criteria.carrd.co/)
-    $${\color{#6B7EA5} ㅤ𓏵}$$
+    <a href="https://dni-criteria.carrd.co/" target="_blank">Basic DNI Criteria</a> 
+    $${\color{#1D2144} ㅤ𓏵}$$
     <br>
   </div>
 
