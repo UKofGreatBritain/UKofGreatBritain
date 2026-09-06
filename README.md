@@ -152,5 +152,23 @@ $${\color{#8A3238}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ
 <td>
 <tr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&pause=1000&color=F0CC69&width=250&lines=Quis+separabit%3F;Who+will+separate+us%3F" alt="Typing SVG" /></a>
-$${\color{#F0CC69} — Northern Ireland }$$
+$${\color{#B53B4F} — Northern Ireland }$$
 </p>
+<div align="right">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+<p align="center">
+  <td align="middle" valign="middle">
+ <b>♬  ◟  [ NOWㅤ PLAYING . . . ] </b>
+  <img src="https://github.com/user-attachments/assets/11b866bc-c814-43ce-a63e-7fd93158bc49" width="5%" />
+  <br> 
+</p>
+<p align="center">
+  
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zzifjxbqm6nzapxa1c117cw3y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0c705b&interchange=false&profanity=false&hide_remaster=false&bar_color=2ed1a8&bar_color_cover=false">
+  </a>
+  <br>
+  ↻ ◁ II ▷ ↺ 1:35 ───ㅇ───── 3:47
+</p>
+</div>
