@@ -127,9 +127,9 @@ $${\color{#8A3238}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="middle" valign="middle">
-      $${\color{#358748}🌙 : Off-tab / On menu (Whisp to Int)}$$
+      $${\color{#358748}🌙 : ㅤOff-tab ㅤ/ ㅤOn ㅤmenu ㅤ(Whisp ㅤto ㅤInt)}$$
      <br>
-     $${\color{#8A3238}⛔️ : Online , Feel free to interact}$$
+     $${\color{#8A3238}⛔️ : ㅤOnline ㅤ, ㅤFeel ㅤfreeㅤ to ㅤinteract}$$
     </td>
   </tr>
 </table>
