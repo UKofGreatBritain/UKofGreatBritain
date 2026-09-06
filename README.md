@@ -142,4 +142,15 @@ $${\color{#8A3238}ㅤwhisper ㅤme ㅤif ㅤyou'd ㅤlike ㅤto ㅤinteract! ㅤ
 
 
   </details>
-  
+<br>
+<br>
+
+  <p align="center"><img src="https://github.com/user-attachments/assets/b78f058f-8644-4ad8-aa96-20e5339bf5a7"  align="right" width="27%" /></p>
+
+ ㅤ
+<p align="right">
+<td>
+<tr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Slabo+13px&pause=1000&color=F0CC69&width=250&lines=Quis+separabit%3F;Who+will+separate+us%3F" alt="Typing SVG" /></a>
+$${\color{#F0CC69} — Northern Ireland }$$
+</p>
