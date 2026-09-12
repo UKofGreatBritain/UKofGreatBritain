@@ -47,7 +47,7 @@ $${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
   </details>
 
 
-　 [ATABOOK](https://englandlondon.atabook.org/)‎　 [STRAWPAGE](https://arthuriggy.straw.page) 　[GUNS.LOL](https://guns.lol/arthurkirkland)
+　 [ATABOOK](https://englandlondon.atabook.org/)‎　 [STRAWPAGE](https://englandlondon.straw.page) 　[GUNS.LOL](https://guns.lol/arthurkirkland)
 
 <br>
 <br>
