@@ -79,11 +79,11 @@ $${\color{#295F95} — Scotland }$$
 <summary>$\color{#97B1D4}{\textsf{ㅤㅤㅤㅤㅤ INTERACTㅤ.ᐟ.ᐟㅤㅤㅤㅤㅤ}}$</summary>
     <br>
   <div align="right">
-$${\color{#344876}FRUKㅤ Shippersㅤ 𓏵}$$
+$${\color{#344876}Japanㅤ Cosplayersㅤ /ㅤ Kins ㅤ𓏵}$$
     <br>
 $${\color{#506DA9}UK ㅤBrothers ㅤCosplayers ㅤ/ㅤ Kins ㅤ𓏵}$$
     <br>
-$${\color{#5C75A7}Germany ㅤKinsㅤ 𓏵}$$
+$${\color{#5C75A7}Portugal ㅤㅤCosplayers ㅤ/ㅤ Kinsㅤ 𓏵}$$
     <br>
 $${\color{#6B7EA5} DOUBLES ㅤ𓏵}$$
     <br> 
