@@ -245,4 +245,9 @@ $${\color{#B53B4F} — Northern Ireland }$$
 </div>
   <div align="center">
     
-  [@PrincipalityofSealand](https://github.com/PrincipalityofSealand)‎
+  [@PrincipalityofSealand](https://github.com/PrincipalityofSealand)
+  [@RepublicOfChile](https://github.com/RepublicOfChile)‎
+
+  <br>
+  <br>
+  </div>
