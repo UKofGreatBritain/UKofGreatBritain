@@ -35,7 +35,7 @@ $${\color{#C96484} 𓂃 ㅤㅤThemㅤㅤ}$$
     <br>
 $${\color{#FDF1F3}₊ ⊹ㅤ 19 ㅤYEARS ㅤFRESH.}$$
 　　
-$${\color{#FFD5DC} ›ㅤㅤ England ㅤKinnie }$$
+$${\color{#FFD5DC} ›ㅤㅤ England ㅤFictkin }$$
     <br>
 
   </tr>
