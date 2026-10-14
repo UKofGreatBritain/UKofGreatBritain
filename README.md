@@ -1,4 +1,11 @@
 <p align="center">
+    <a href="https://docs.google.com/document/d/1A-cFKFlqzr1DZFTsLUYjq8b30IEM0qs2XtsJ_Zy_nXY/edit?usp=drivesdk" target="_blank">READ BEFORE YOU INTERACT</a> 
+</p>
+<br>
+<br>
+
+
+<p align="center">
 <img src="https://hits.sh/github.com/UKofGreatBritain.svg?style=flat-square&label=TOURISTS!!&extraCount=1159&color=FFFFFf&labelColor=AB3759">       ㅤ   ㅤ                      
   <img src="https://github.com/user-attachments/assets/acd9f578-f29e-417e-8b90-e8e9a5514035" width="4%" />⠀⠀ㅤ
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/UKofGreatBritain?style=flat-square&label=The+Queen's+Subjects&labelColor=AB3759&color=FFFFFF">
