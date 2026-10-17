@@ -137,7 +137,7 @@ $${\color{#262E57}Trollㅤ skins ㅤ(iwc) ㅤ𓏵}$$
 </h5>
 <br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c793547d-20af-450b-8ef5-d1a4877783a5" width="100%" />
+<img src="https://github.com/user-attachments/assets/3412a44f-ad17-453a-8d7f-52b4e4019c63" width="100%" />
 </p>
 <br>
 <br>
@@ -258,3 +258,7 @@ $${\color{#B53B4F} — Northern Ireland }$$
   <br>
   <br>
   </div>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5fd66f67-1b34-4ee1-a3d0-ac4014773f85" width="100%" />
+</p>
