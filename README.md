@@ -253,7 +253,10 @@ $${\color{#B53B4F} — Northern Ireland }$$
   <div align="center">
     
   [@PrincipalityofSealand](https://github.com/PrincipalityofSealand)
-  [@RepublicOfChile](https://github.com/RepublicOfChile)‎
+  [@RepublicOfChile](https://github.com/RepublicOfChile)
+  [@USofAmerica](https://github.com/USofAmerica)
+  [@meatfred](https://github.com/meatfred)
+  [@UEnclave](https://github.com/UEnclave)‎
 
   <br>
   <br>
