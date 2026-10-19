@@ -1,5 +1,8 @@
 <p align="center">
+    ★
     <a href="https://docs.google.com/document/d/1A-cFKFlqzr1DZFTsLUYjq8b30IEM0qs2XtsJ_Zy_nXY/edit?usp=drivesdk" target="_blank">READ BEFORE YOU INTERACT</a> 
+    <br>
+    <a href="https://docs.google.com/document/d/1n0bJC_1XrXOBvxE8DjCa1nxUYHHCHM3Cu3ZHxg_PV5A/edit?usp=drivesdk" target="_blank">TO USUK AND CANAME SHIPPERS</a> 
 </p>
 <br>
 <br>
