@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/79e65d7d-c2a3-4291-ba7e-5edf61dcac45" width="5%" />
+    <img src="https://github.com/user-attachments/assets/79e65d7d-c2a3-4291-ba7e-5edf61dcac45" width="3%" />
     Pony Town's 𝙀𝙉𝙂𝙇𝘼𝙉𝘿 at <a href="https://github.com/pt-walk-of-fame" target="_blank">Pony Town Walk of Fame</a> 
 </p>
 </br>
