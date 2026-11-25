@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-    Pony Town's ENGLAND at <a href="https://github.com/pt-walk-of-fame" target="_blank">Pony Town Walk of Fame</a> 
+    Pony Town's 𝙀𝙉𝙂𝙇𝘼𝙉𝘿 at <a href="https://github.com/pt-walk-of-fame" target="_blank">Pony Town Walk of Fame</a> 
 </p>
 </br>
 
